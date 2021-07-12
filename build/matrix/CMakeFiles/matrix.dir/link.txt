@@ -1,0 +1,1 @@
+/usr/bin/clang++   -Wall -Wextra -Werror   CMakeFiles/matrix.dir/test.cpp.o  -o matrix  ../lib/libgtest_main.a -lutil ../lib/libgtest.a -lpthread 

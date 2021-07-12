@@ -1,0 +1,19 @@
+Start testing: Jul 12 14:25 MSK
+----------------------------------------------------------
+Unable to find executable: matrix_NOT_BUILT
+1/1 Testing: matrix_NOT_BUILT
+1/1 Test: matrix_NOT_BUILT
+Command: ""
+Directory: /home/stas/Desktop/lin/linalglib/build/matrix
+"matrix_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"matrix_NOT_BUILT" end time: Jul 12 14:25 MSK
+"matrix_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jul 12 14:25 MSK

@@ -1,0 +1,5 @@
+if(EXISTS "/home/stas/Desktop/lin/linalglib/build/matrix/matrix[1]_tests.cmake")
+  include("/home/stas/Desktop/lin/linalglib/build/matrix/matrix[1]_tests.cmake")
+else()
+  add_test(matrix_NOT_BUILT matrix_NOT_BUILT)
+endif()
